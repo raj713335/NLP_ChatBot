@@ -1,5 +1,3 @@
-# NLP_ChatBot
-
 # Implementation of a Contextual Chatbot in PyTorch.  
 Simple chatbot implementation with PyTorch. 
 
